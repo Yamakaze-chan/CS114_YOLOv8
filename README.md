@@ -1,8 +1,53 @@
-# ĐỒ ÁN XÁC ĐỊNH VÀ NHẬN DIỆN BIỂN SỐ XE
-*Danh sách nhóm:*
-1.	Trần Quang Nhật -20520675
-2.	Võ Thành Thái – 20520305<br />
-*Ghi chú:*
-- File train_model_yolov8.py là file sử dụng để train model yolov8 
-- File detect_model_yolov8.py là file sử dụng để detect biển số phương tiện và đọc các kí tự trên chúng
-  + Read_LP("<Đường dẫn đến hình ảnh muốn detect>", <chế độ muốn sử dụng (1: đọc các kí tự trên biển số xe, 2: gắn các boundingbox biển số xe trên hình muốn detect)>"
+<p align="center">
+   <a href="https://www.uit.edu.vn/">
+      <img src="https://i.imgur.com/WmMnSRt.png" border="none">
+   </a>
+</p>
+<h1 align="center">
+    CS114.N11.KHCL - Máy học
+</h1>
+
+<h2>
+   Giới thiệu môn học   
+</h2>
+
+- *Tên môn học:* Máy học
+- *Mã môn học:* CS114
+- *Mã lớp:*  CS114.N11.KHCL
+- *Năm học:* HK1 (2022-2023)
+- *Giảng viên:* Ths. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
+
+<h2>
+   Giới thiệu nhóm
+</h2>
+
+- *Thông tin thành viên:* 
+
+<table align="center">
+      <tr>
+       <th>Họ và Tên</th>
+       <th>MSSV</th>
+       <th>Github</th>
+       <th>Email</th>
+      </tr>
+      <tr>
+       <td>Trần Quang Nhật</td>
+       <td>20520675</td>
+       <td>https://github.com/Yamakaze-chan</td>
+       <td>20520675@gm.uit.edu.vn</td>  
+      </tr>
+      <tr>
+       <td>Võ Thành Thái</td>
+       <td>20520305</td>
+       <td>https://github.com/thaivo02</td>
+       <td>20520305@gm.uit.edu.vn</td>  
+      </tr>
+</table>
+
+<h2>
+  Chủ đề báo cáo 
+</h2>
+
+- *Tên chủ đề:* xác định và nhận diện biển số xe
+
+<h3>Mô tả đồ án: </h3>
